@@ -1,5 +1,7 @@
 # Teacher
 
+[![skills.sh](https://skills.sh/b/HelloBie/teacher-skill)](https://skills.sh/HelloBie/teacher-skill/teacher)
+
 **把学习目标变成可持续推进的课程。**
 
 Teacher 是一个通用教学技能，适用于支持 `SKILL.md` 格式的 AI 编程助手。你只需说明想学什么，Teacher 就能根据目标和已有经验制定课程大纲，按照「讲解 → 示例 → 跟练 → 练习 → 讲评」开展教学，并把讲义、作答和进度保存在工作区，方便下次接着学。
@@ -20,7 +22,17 @@ Teacher 是一个通用教学技能，适用于支持 `SKILL.md` 格式的 AI �
 
 ## 安装
 
-### Codex
+### 使用 Skills CLI 安装
+
+需要 Node.js 和 npm。运行：
+
+```bash
+npx skills add HelloBie/teacher-skill --skill teacher
+```
+
+根据提示选择要安装的助手；默认安装到当前项目。如需安装到全局，可添加 `-g`，请先检查是否已有同名技能。技能页面：[Skills.sh 上的 Teacher](https://skills.sh/HelloBie/teacher-skill/teacher)。
+
+### 手动安装到 Codex
 
 将仓库中的 `teacher` 文件夹复制到 Codex 的技能目录。以下命令使用 `$CODEX_HOME`；如果没有设置，则使用 `~/.codex`。
 
