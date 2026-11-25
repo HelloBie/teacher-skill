@@ -1,16 +1,24 @@
+![Teacher：一本打开的书，书页延伸为学习路径](assets/teacher-banner.png)
+
 # Teacher
 
-中文 | [English](README.en.md)
-
-[![skills.sh](https://skills.sh/b/HelloBie/teacher-skill)](https://skills.sh/HelloBie/teacher-skill/teacher)
-
 **把学习目标变成可持续推进的课程。**
+
+中文 · [English](README.en.md)  |  [安装](#安装) · [快速开始](#快速开始) · [教学流程](#教学流程) · [参与贡献](#参与贡献)
+
+[![skills.sh](https://skills.sh/b/HelloBie/teacher-skill)](https://skills.sh/HelloBie/teacher-skill/teacher) [![License: MIT](https://img.shields.io/badge/License-MIT-177A78.svg)](LICENSE)
 
 Teacher 是一个通用教学技能，适用于支持 `SKILL.md` 格式的 AI 编程助手。你只需说明想学什么，Teacher 就能根据目标和已有经验制定课程大纲，按照「讲解 → 示例 → 跟练 → 练习 → 讲评」开展教学，并把讲义、作答和进度保存在工作区，方便下次接着学。
 
 它不限于编程：语言、设计、数学、写作、产品、职业技能等方向，都可以根据学科特点选择合适的讲解和练习方式。
 
 > 项目提供的是供 AI 助手读取的技能指令和文件规范，不是独立的教学应用，也不包含预先编好的完整课程。实际教学效果取决于所用助手、模型、工具和课程内容。
+
+## 从目标到掌握
+
+> 设定目标 → 制定大纲 → 讲解与跟练 → 练习与讲评 → 整课归纳 → 结业自测
+
+每一步都有对应的材料和进度记录，你可以按照自己的节奏学习、提问和继续。
 
 ## 特性
 

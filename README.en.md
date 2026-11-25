@@ -1,16 +1,24 @@
+![Teacher: an open book unfolding into a learning journey](assets/teacher-banner.png)
+
 # Teacher
 
-[中文](README.md) | English
-
-[![skills.sh](https://skills.sh/b/HelloBie/teacher-skill)](https://skills.sh/HelloBie/teacher-skill/teacher)
-
 **Turn a learning goal into a course you can continue at your own pace.**
+
+[中文](README.md) · English  |  [Install](#installation) · [Quick start](#quick-start) · [Workflow](#teaching-workflow) · [Contributing](#contributing)
+
+[![skills.sh](https://skills.sh/b/HelloBie/teacher-skill)](https://skills.sh/HelloBie/teacher-skill/teacher) [![License: MIT](https://img.shields.io/badge/License-MIT-177A78.svg)](LICENSE)
 
 Teacher is a general-purpose teaching skill for AI assistants that support the `SKILL.md` format. Describe what you want to learn, and Teacher can create a tailored syllabus, teach with examples and guided practice, provide exercises and feedback, and save course materials and progress in your workspace.
 
 It is not limited to programming. Languages, design, mathematics, writing, product skills and professional development can all use the same workflow, with examples and exercises adapted to the subject.
 
 > This project provides instructions and file conventions for an AI assistant. It is not a standalone teaching application or a collection of prewritten courses. Results depend on the assistant, model, available tools and subject matter.
+
+## From a goal to understanding
+
+> Set a goal → Plan the course → Learn with examples → Practice and review → Summarize → Assess
+
+Each step has its own materials and progress record, so you can learn, ask questions and continue at your own pace.
 
 ## Features
 
